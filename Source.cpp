@@ -3,7 +3,7 @@
 #include<GL/glut.h>
 typedef struct point {
 	long double x;
-	long double y;
+	
 };
 point grid_points[60];
 int count = 0, countC = 0;;
